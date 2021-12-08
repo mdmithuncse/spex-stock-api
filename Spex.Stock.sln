@@ -21,23 +21,23 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "presentation", "presentatio
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "shared", "shared", "{C41AFD55-C5D9-4C35-97AE-1BB353C571C0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Spex.Stock.Api", "src\presentation\Spex.Stock.Api\Spex.Stock.Api.csproj", "{F13F4BB5-4A27-4E6B-8080-875ACDBFA7C5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Spex.Stock.Api", "src\presentation\Spex.Stock.Api\Spex.Stock.Api.csproj", "{F13F4BB5-4A27-4E6B-8080-875ACDBFA7C5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Application", "src\core\Application\Application.csproj", "{8390CB0E-F13F-4AE9-B76B-7A1DF28E0CBD}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Application", "src\core\Application\Application.csproj", "{8390CB0E-F13F-4AE9-B76B-7A1DF28E0CBD}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Common", "src\core\Common\Common.csproj", "{D4D63754-E324-4058-9009-4D995198ED42}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Common", "src\core\Common\Common.csproj", "{D4D63754-E324-4058-9009-4D995198ED42}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DomainModel", "src\core\DomainModel\DomainModel.csproj", "{BA394A64-EECF-48E0-B48B-F88F6A0F25C4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DomainModel", "src\core\DomainModel\DomainModel.csproj", "{BA394A64-EECF-48E0-B48B-F88F6A0F25C4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataModel", "src\core\DataModel\DataModel.csproj", "{B6F0E949-D7AF-4389-92E9-EB8B104BFC3C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DataModel", "src\core\DataModel\DataModel.csproj", "{B6F0E949-D7AF-4389-92E9-EB8B104BFC3C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Persistence", "src\infrastructure\Persistence\Persistence.csproj", "{533D6D9B-6E0E-41A2-BDBD-679DDA194631}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Persistence", "src\infrastructure\Persistence\Persistence.csproj", "{533D6D9B-6E0E-41A2-BDBD-679DDA194631}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Extensions", "src\shared\Extensions\Extensions.csproj", "{8EF8A7F3-0109-45F7-9029-07AC91410182}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Extensions", "src\shared\Extensions\Extensions.csproj", "{8EF8A7F3-0109-45F7-9029-07AC91410182}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pagination", "src\shared\Pagination\Pagination.csproj", "{AD8FE7E9-EB1F-4179-B5BE-52AC2BB6D896}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Pagination", "src\shared\Pagination\Pagination.csproj", "{AD8FE7E9-EB1F-4179-B5BE-52AC2BB6D896}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Spex.Stock.Integration.Test", "test\Spex.Stock.Integration.Test\Spex.Stock.Integration.Test.csproj", "{BDE1B5F5-2066-4D5F-BDF9-3C227A1DCF50}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Spex.Stock.Integration.Test", "test\Spex.Stock.Integration.Test\Spex.Stock.Integration.Test.csproj", "{BDE1B5F5-2066-4D5F-BDF9-3C227A1DCF50}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
